@@ -1,3 +1,8 @@
+/* 目录字体大小 */
+.toc-text{
+    font-size: 14px;
+}
+/* 首页字体样式 */
 @font-face {
     font-family: 'ZCOOLKuaiLe';
     font-display: swap;

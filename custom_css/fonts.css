@@ -1,6 +1,10 @@
 /* 目录字体大小 */
 .toc-text{
-    font-size: 14px;
+    font-size: 12px;
+}
+/* 目录右上角数字的大小 */
+.toc-percentage{
+    font-size: 10px !important;
 }
 /* 首页字体样式 */
 @font-face {
